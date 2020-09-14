@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I **love** video games! Especially **RPGs**! One of my favourites is _Persona 4 Golden_!
